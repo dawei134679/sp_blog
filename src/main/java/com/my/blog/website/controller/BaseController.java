@@ -15,7 +15,6 @@ public abstract class BaseController {
 
     protected MapCache cache = MapCache.single();
 
-
     /**
      * 主页的页面主题
      * @param viewName
